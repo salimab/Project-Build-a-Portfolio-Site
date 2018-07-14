@@ -1,11 +1,14 @@
-Udacity Build a Portfolio Site
+# udacity-build-a-portfolio-site
 
-Front-End Web Developer Nanodegree project.
+## Project Description
 
-Project Description
+You will be provided with a design mockup as a PDF-file and must replicate that
+design in HTML and CSS. You will develop a responsive website that will display
+images, descriptions and links to each of the portfolio projects you will
+complete throughout the course of your Nanodegree program.
 
-You will be provided a design mockup as a PDF-file, and you must replicate that design in HTML and CSS. You will develop a responsive website that will display images, descriptions and links to each of the portfolio projects you will complete through the course of your Nanodegree program.
+## Note
 
-Note
+The website is available for viewing [here][1].
 
-The website is available at :
+[1]:  https://salimab.github.io/Project-Build-a-Portfolio-Site/
